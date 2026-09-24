@@ -8,6 +8,7 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 345px;
+  height: 100%;
 }
 
 .image {
@@ -22,8 +23,8 @@
 }
 
 .description {
-  margin-top: 6px;
-  font-size: 25px;
+  margin-top: auto;
+  font-size: 20px;
   font-weight: 400;
 }
 

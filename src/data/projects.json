@@ -2,7 +2,7 @@
   {
     "title": "Spotify",
     "imageSrc": "projects/spotify.png",
-    "description": "Progetto della web app di Spotify realizzatro con HTML e CSS.",
+    "description": "Project of the Spotify web app built with HTML and CSS.",
     "skills": ["Html", "Css"],
  
     "source": "https://github.com/MateuszKacperski/html-css-spotifyweb"
@@ -10,15 +10,15 @@
   {
     "title": "Deliverboo",
     "imageSrc": "projects/deliverboo .png",
-    "description": "Progetto finale di Boolean. Sito che imita Delivberoo",
+    "description": "Final Boolean project. Website that imitates Deliveroo",
     "skills": ["Laravel", "Vue", "Css", "Php"],
     "source": "https://github.com/MateuszKacperski/vue-deliveboo"
   },
   {
     "title": "Boolzapp",
     "imageSrc": "projects/wa.png",
-    "description": "Web app di WhatsApp",
-    "skills": ["Htlm", "Css", "JavaScript"],
+    "description": "Web app of WhatsApp",
+    "skills": ["Html", "Css", "JavaScript"],
     "source": "https://github.com/MateuszKacperski/vue-boolzapp"
   }
 ]

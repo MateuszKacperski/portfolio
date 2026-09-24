@@ -7,13 +7,13 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Ciao sono, I'm Mateusz</h1>
+        <h1 className={styles.title}>Hi, I'm Mateusz</h1>
         <p className={styles.description}>
-          Sono un full-stack developer con 1 un anno di esperienza di Vue e
-          Laravel. Attualmente studio React !
+          I`m a full-stack developer with 1 year of experience in Vue and
+          Laravel. I`m currently studying React !
         </p>
         <a href="mailto:kacperskimateusz95@gmail.com" className={styles.contactBtn}>
-          Contattami
+          Contact Me
         </a>
       </div>
       <img

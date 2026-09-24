@@ -6,7 +6,7 @@ import { getImageUrl } from "../../utils";
 export const About = () => {
   return (
     <section className={styles.container} id="about">
-      <h2 className={styles.title}>Su di me</h2>
+      <h2 className={styles.title}>About me</h2>
       <div className={styles.content}>
         <img
           src={getImageUrl("about/programmazione.jpg")}
@@ -19,8 +19,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                Sono un  frontend developer con esperienza in sviluppo di siti web responsive
-                e ottimizzati
+                I`m a frontend developer with experience in developing responsive
+                and optimized websites
               </p>
             </div>
           </li>
@@ -29,16 +29,17 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                Ho esperienza nello sviluppo backend
+                I`m a backend developer with experience in developing robust
+                and scalable server-side applications
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/libro.png")} alt="Libro" />
             <div className={styles.aboutItemText}>
-              <h3>Studio</h3>
+              <h3>Study</h3>
               <p>
-                Attualmente sto studiando React
+                I`m currently studying React
               </p>
             </div>
           </li>
