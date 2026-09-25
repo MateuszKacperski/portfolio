@@ -7,14 +7,15 @@
   background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
-  max-width: 345px;
-  height: 100%;
+  width: 345px;
+  flex-shrink: 0;
 }
 
 .image {
   margin-bottom: 26px;
-  height: auto;
+  height: 200px;
   width: 300px;
+  object-fit: cover;
 }
 
 .title {
@@ -39,11 +40,11 @@
 }
 
 .skill {
-  font-size: 25px;
+  font-size: 16px;
   font-weight: 400;
   border-radius: 100px;
   background: var(--color-dark);
-  padding: 2px 22px;
+  padding: 2px 14px;
 }
 
 .links {
